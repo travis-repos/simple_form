@@ -5,3 +5,5 @@ rvm:
   - ree
   - jruby
   - rubinius
+notifications:
+  disabled: true
